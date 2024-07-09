@@ -11,7 +11,7 @@
 ## 설명
 ![img](./docs/images/input/inputs.png)
 
-- ```INPUT``` 단 5장의 이미지만으로 파인튜닝 (DreamBooth)
+- ```INPUT``` 단 5장의 이미지만으로 Diffusion Model 파인튜닝 (DreamBooth)
 
 <br />
 <br />
