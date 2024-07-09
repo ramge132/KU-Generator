@@ -9,6 +9,10 @@
 <br />
 
 ## 설명
+| **사용언어** | **하드웨어** | **제작년도** |
+|:------------:|:------------:|:------------:|
+| Python            | A100    | 2023         |
+
 ![img](./docs/images/input/inputs.png)
 
 - ```INPUT``` 단 5장의 이미지만으로 Diffusion Model 파인튜닝 (DreamBooth)
