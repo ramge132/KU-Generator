@@ -8,10 +8,10 @@
 <br />
 
 ## 설명
-![img](./docs/input/inputs.png)
+![img](./docs/images/input/inputs.png)
 
 단 5장의 이미지만으로 파인튜닝 (DreamBooth)
 
-![img](./docs/output/outputs.png)
+![img](./docs/images/output/outputs.png)
 
 프롬프트에 따라 다양한 스타일의 KU를 생성한다.
